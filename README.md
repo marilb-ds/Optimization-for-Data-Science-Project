@@ -16,9 +16,9 @@ This problem can be formulated as a **low-rank matrix completion problem**, wher
 
 The optimization objective is:
 
-[
+$$
 \min_X \sum_{(i,j) \in \Omega} (X_{ij} - R_{ij})^2
-]
+$$
 
 subject to a **nuclear norm constraint** that promotes low-rank solutions.
 
@@ -68,16 +68,6 @@ This method is included as a **baseline for comparison**.
 ---
 
 # Project Structure
-
-```
-project/
-│
-├── recommender_system.ipynb
-├── lens_movies_short.csv
-├── jester_dataset.csv
-├── ratings_matrix.csv
-└── README.md
-```
 
 The notebook contains:
 
@@ -140,9 +130,9 @@ The following metrics are used depending on the dataset:
 
 Measures prediction error:
 
-[
+$$
 MAE = \frac{1}{N}\sum |y_{true} - y_{pred}|
-]
+$$
 
 ---
 

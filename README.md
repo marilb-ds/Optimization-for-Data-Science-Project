@@ -1,13 +1,10 @@
-# Optimization-for-Data-Science-Project
-This project was developed in groups during my second semester of the masters in Data Science at the University of Padua. It aimed to provide an Implementation of Frank-Wolfe Methods for Recommender Systems in Python.
-
 # Recommender Systems with Frank-Wolfe Methods
 
 This project implements and compares different optimization algorithms for the **matrix completion problem**, which is a core task in recommender systems.
 
 The goal is to predict missing values in a user–item interaction matrix (e.g., movie ratings), allowing systems to recommend items to users based on inferred preferences.
 
-The project was developed as part of the **Optimization for Data Science (ODS) course**.
+The project was developed as part of the **Optimization for Data Science (ODS) course** at the University of Padua.
 
 ---
 

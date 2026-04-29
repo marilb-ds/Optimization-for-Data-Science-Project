@@ -195,5 +195,3 @@ jupyter notebook recommender_system.ipynb
 * **Marina Lima Braga**
 
 University of Padova — 2025.
-
-**.

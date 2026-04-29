@@ -196,13 +196,4 @@ jupyter notebook recommender_system.ipynb
 
 University of Padova — 2025.
 
----
-
-If you want, I can also give you a **much stronger GitHub-style README (more professional)** with:
-
-* badges
-* algorithm diagrams
-* complexity explanation
-* figures from your plots
-
-which would make the repo look **very strong for data science portfolios**.
+**.
